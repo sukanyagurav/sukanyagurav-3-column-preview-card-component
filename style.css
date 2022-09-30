@@ -18,7 +18,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height:100vh;
-background-color: #999;
+background-color: #F2F2F2;
     font-family: 'Lexend Deca', sans-serif;
 }
 @media(min-width:350px){
